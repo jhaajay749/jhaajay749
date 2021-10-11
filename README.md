@@ -1,10 +1,28 @@
-- 👋 Hi, I’m @jhaajay749
-- 👀 I’m interested in React | Frontend Deveploment
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Ajay Kumar Jha
 
-<!---
-jhaajay749/jhaajay749 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in React | Frontend Deveploment
+
+- I've good understanding in ReactJS Frontend development and appropriate DataStructure & Algorithms knowledge to solve the problem.
+
+- I've been learning tools and technologies of Frontend development and developing projects in ReactJS Frontend development since my 1st year of college and really enjoying it....
+
+- Tools and Technologies that I know
+
+-API creation with Node/Express
+-Redux
+-ReactJs
+-Javascript
+-Material UI
+-Bootstrap
+-CSS
+-HTML
+
+
+Programming skills
+-C
+-Python
+-DataStructure & Algorithms
+
+
+
+
