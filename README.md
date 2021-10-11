@@ -9,18 +9,28 @@
 - Tools and Technologies that I know
 
 -API creation with Node/Express
+
 -Redux
+
 -ReactJs
+
 -Javascript
+
 -Material UI
+
 -Bootstrap
+
 -CSS
+
 -HTML
 
 
 Programming skills
+
 -C
+
 -Python
+
 -DataStructure & Algorithms
 
 
