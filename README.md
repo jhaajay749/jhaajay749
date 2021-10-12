@@ -8,7 +8,7 @@
 
 - Tools and Technologies that I know
 
--API creation with Node/Express
+-APIs
 
 -Redux
 
