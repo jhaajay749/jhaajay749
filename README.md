@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ajay Kumar Jha
 
-- 👀 I’m interested in React | Frontend Deveploment
+- 👀 I’m interested in React | Frontend Development 
 
 - I've good understanding in ReactJS Frontend development and appropriate DataStructure & Algorithms knowledge to solve the problem.
 
